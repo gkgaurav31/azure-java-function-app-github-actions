@@ -37,4 +37,4 @@ local.settings.json
 bin/
 obj/
 
-.vscode
+.vscode/
